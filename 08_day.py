@@ -86,4 +86,3 @@ with open("08_input.txt") as f:
 
     print("Part 1:", part_1(raw_data))
     print("Part 2:", part_2(raw_data))
-
